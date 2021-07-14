@@ -1,22 +1,24 @@
 ## Problem
-Young ambitious people at the start of their career lack information about the carrer paths that 1. are open to them at the current moment, 2. likely to take them to their end destination, 3. the skills and experiences they need to develop to naviate these paths.   
-
-The lack of information about the career paths leads to poor planning and missed opportunities.
+Young ambitious people at the start of their career lack information about:
+1. What career paths are open to them?
+2. Which paths are easier to navigate given their aptitudes and habilities. 
+3. What skills and experiences should they seek to advance through these paths. 
 
 ## Vision
-Users start by defining their key attributes of their long term career goal: Field, job type, job position and salary. The tool uses the user input to calculate all carrier paths. For each path it will provide the level of difficulty based on 1. total years of studying and degree level, 2.insitution prestige, 3. average years to end destination.
-
-## Persona
+Users of "Career Paths" get a vision of their profesional futur(es) by:
+1. Selecting their long term career goal including (field, job type, job position and salary).
+2. The tool uses this input to calculate common career paths.
+3. The tool provides information about these paths allowing users to compare and constrast among them.
+4. The tool provides recommendations regarding most suitable path based on preferences including (difficulty, duration, "of the beaten track" paths). 
 
 ## Timeline
-Day 1 - Problem and solution defintion.
-Day 2 - Product backlog definition and sprint planning.
-Day 3 to 10 - Sprint 1
-Day 11 - Sprint review and course correction.
-Day 12 to 19 - Sprint 2
-Day 20 - Sprint review and course correction.
-Day 21 to 29 - Sprint 3
-Day 30 - Sprint review and project review.  
+Day 1 - Project vision
+Day 2 - Solution requirements 
+Day 3 - High level architecture
+Day 4 to 11 - Sprint 1
+Day 12 - Sprint review and course correction.
+Day 13 to 20 - Sprint 2
+Day 21- Sprint review and course correction.
+Day 22 to 30 - Sprint 3
+Day 31 - Sprint review and project review.  
 
-
-## Other
