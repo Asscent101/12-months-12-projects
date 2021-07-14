@@ -1,8 +1,8 @@
 ## Problem
-Young ambitious people at the start of their career lack information about:
-1. What career paths are open to them?
-2. Which paths are easier to navigate given their aptitudes and habilities. 
-3. What skills and experiences should they seek to advance through these paths. 
+Many business school graduates choose banking and consulting as safe options to achieve their ambitious career goals. Often these students are not aware of alternative paths that could lead to similar career outcomes and while offering higher job satisfaction. 
+1. Career paths open to them. 
+2. Attributes about the different paths.
+3. Skills and experiences required to navigate these paths.  
 
 ## Vision
 Users of "Career Paths" get a vision of their profesional futur(es) by:
