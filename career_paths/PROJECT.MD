@@ -12,13 +12,13 @@ Users of "Career Paths" get a vision of their profesional futur(es) by:
 4. The tool provides recommendations regarding most suitable path based on preferences including (difficulty, duration, "of the beaten track" paths). 
 
 ## Timeline
-Day 1 - Project vision
-Day 2 - Solution requirements 
-Day 3 - High level architecture
-Day 4 to 11 - Sprint 1
-Day 12 - Sprint review and course correction.
-Day 13 to 20 - Sprint 2
-Day 21- Sprint review and course correction.
-Day 22 to 30 - Sprint 3
-Day 31 - Sprint review and project review.  
+* Day 1 - Project vision
+* Day 2 - Solution requirements 
+* Day 3 - High level architecture
+* Day 4 to 11 - Sprint 1
+* Day 12 - Sprint review and course correction.
+* Day 13 to 20 - Sprint 2
+* Day 21- Sprint review and course correction.
+* Day 22 to 30 - Sprint 3
+* Day 31 - Sprint review and project review.  
 
