@@ -1,8 +1,8 @@
 ## Problem
 Young ambitious people at the start of their career lack information about:
-1. What career paths are open to them?
-2. Which paths are easier to navigate given their aptitudes and habilities. 
-3. What skills and experiences should they seek to advance through these paths. 
+1. Career paths open to them.
+2. Attributes about these paths to help them understand which are more compatible their aptitudes and habilities. 
+3. Skills, experiences and education requirements to thrive in each path. 
 
 ## Vision
 Users of "Career Paths" get a vision of their profesional futur(es) by:
@@ -12,13 +12,13 @@ Users of "Career Paths" get a vision of their profesional futur(es) by:
 4. The tool provides recommendations regarding most suitable path based on preferences including (difficulty, duration, "of the beaten track" paths). 
 
 ## Timeline
-Day 1 - Project vision
-Day 2 - Solution requirements 
-Day 3 - High level architecture
-Day 4 to 11 - Sprint 1
-Day 12 - Sprint review and course correction.
-Day 13 to 20 - Sprint 2
-Day 21- Sprint review and course correction.
-Day 22 to 30 - Sprint 3
-Day 31 - Sprint review and project review.  
+* Day 1 - Project vision
+* Day 2 - Solution requirements 
+* Day 3 - High level architecture
+* Day 4 to 11 - Sprint 1
+* Day 12 - Sprint review and course correction.
+* Day 13 to 20 - Sprint 2
+* Day 21- Sprint review and course correction.
+* Day 22 to 30 - Sprint 3
+* Day 31 - Sprint review and project review.  
 
