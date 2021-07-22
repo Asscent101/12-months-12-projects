@@ -7,8 +7,6 @@ ID | Epic | Story | Points
 
 # User story brainstorm
 
-As a user, I want to [], so that []
-
 * As a user, I want to [input key attributes of my long term career goal], so
 that [the tool can use them to calculate available career paths]
 * As a user, I want to [visualize common career paths that lead to my end goal], so that [I can explore the different alternatives avaiable to me, and understand which ones are suitable based on my aptitude and skills]
