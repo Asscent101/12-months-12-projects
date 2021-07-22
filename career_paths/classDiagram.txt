@@ -1,0 +1,64 @@
+@startuml
+class User {
+  userId: String
+  firstName: String
+  lastName:String
+  encode(): String
+}
+class Person {
+  id: String  
+  firstName: String
+  lastName: String
+  fullName: String
+  headline: String
+  summary: String
+  locationId: String
+  experience: List
+  education: List
+  
+  
+}
+class Experience {
+  id: String
+  personId: String
+  companyId: String
+  jobId: String
+  jobTitle: String
+  startDate: Date
+  endDate: Date
+  locationId: String
+}
+class Job {
+  id: String
+  function: String
+  category: String
+  level: String
+  role: String
+  subRole: String
+  
+}
+class Company {
+  id: String
+  name: String
+  foundedDate: Date
+  locationId: String
+  linkedinId: String
+  locationId: String
+  size: String
+  industry: String
+    
+}
+
+class CareerGoal {
+  id: String
+  jobId: String
+  companyId: String   
+
+}
+class CareerPath {
+  id: String
+  experinceList: List
+
+}
+@enduml
+
