@@ -4,7 +4,6 @@
 Build 12 digital products in 12 months. 
 
 ## Constraints
-* Each product should focus on 1 hard skill and 1 soft skill.
 * Each product should be a complete solution including backend, frontend, data and design. 
 
 ## Resources
