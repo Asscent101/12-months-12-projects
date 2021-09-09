@@ -25,6 +25,17 @@ Users of "Career Paths" get a vision of their profesional futur(es) by:
 * Day 22 to 30 - Sprint 3
 * Day 31 - Sprint review and project review.  
 
+## MVP Front-End Customer Journey
+1. Squarespace Landing Page
+2. Embedded Typeform Survey or email sign up form 
+3. Automate.io 
+4. SQL Database integration 
+5. Automate.io
+6. Drip Email
+
+![image](https://user-images.githubusercontent.com/67875972/132680162-f4412493-4be2-4497-8c89-3b3014aecc69.png)
+![Figma File](https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVMHJPN3HEFZCCPAkbNK71k%2FCareermapp-MVP%3Fnode-id%3D0%253A1)
+
 # Relevant sources
 * [Liu, Y., Zhang, L., Nie, L., Yan, Y. and Rosenblum, D. 2016. Fortune Teller: Predicting Your Career Path. Proceedings of the AAAI Conference on Artificial Intelligence. 30, 1 (Feb. 2016)](https://ojs.aaai.org/index.php/AAAI/article/view/9969)
 * [Rajalakshmi Krishnamurthi, Mukta Goyal, Automatic Detection of Career Recommendation Using Fuzzy Approach, Journal of Information Technology Research, 10.4018/JITR.2018100107, 11, 4, (99-121), (2018).] (https://onlinelibrary.wiley.com/doi/abs/10.1002/cae.21822)
